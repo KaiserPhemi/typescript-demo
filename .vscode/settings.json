@@ -1,0 +1,7 @@
+{
+  "editor.formatOnSave": true,
+  "editor.formatOnPaste": true,
+  "editor.fontFamily": "Menlo, Monaco, 'Courier New', monospace, 'Dank Mono'",
+  "editor.tabSize": 2,
+  "editor.defaultFormatter": "esbenp.prettier-vscode"
+}
